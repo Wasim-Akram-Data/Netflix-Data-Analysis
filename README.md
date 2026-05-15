@@ -1,5 +1,7 @@
 # 🎬 Netflix Data Analysis (EDA Project)
 
+<img width="742" height="495" alt="netflix" src="https://github.com/user-attachments/assets/cdb1af13-3c24-4e77-afd7-940561be7737" />
+
 ## 📌 Project Overview
 This project performs Exploratory Data Analysis (EDA) on the Netflix dataset using Python.  
 The goal is to analyze Netflix movies and TV shows and extract useful insights using data visualization.
